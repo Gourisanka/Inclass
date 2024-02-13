@@ -7,14 +7,52 @@
          font-family: Arial, Helvetica, sans-serif;
         
         }
+        #uq{
+            color: rgb(159, 82, 232);
+        }
+        #or{
+                color: rgb(214, 135, 78);
+        }
+        #pr{
+                color: rgb(126, 229, 229);
+        }
+        #id{
+                color: rgb(231, 197, 152);
+        }
         body
         {
          height: 300vh;
-         width : 200vw;
-         background-color: hsla(34, 57%, 56%, 0.925);
+         width : 80%;
+         background-color: hsl(195, 53%, 79%);
+        }
+        header{
+                background-color: hsl(34, 78%, 91%);
+        }
+        .Structural{
+                padding: 10px;
+                margin: 10px;
+                border: 10px solid #888;
+           
+        }
+       
+        main{
+                background-color: hsl(160, 100%, 75%);
+                float: left;
+                width: 50%;
+        }
+        aside{
+                background-color: hsl(90, 56%, 68%);
+                float: right;
+                width: 40%;
+        }
+        footer{
+                background-color: hsl(240, 76%, 75%);
+              clear: both;
+        }
+        footer p{
+                font-size: 60%;
+        }
+        a:hover{
+                color: #888
         }
         
-        #link{
-                color:aqua;
-                font-size: 2.7em;
-        }
