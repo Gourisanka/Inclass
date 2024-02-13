@@ -38,12 +38,12 @@
         main{
                 background-color: hsl(160, 100%, 75%);
                 float: left;
-                width: 50%;
+                width: 45%;
         }
         aside{
                 background-color: hsl(90, 56%, 68%);
                 float: right;
-                width: 40%;
+                width: 35%;
         }
         footer{
                 background-color: hsl(240, 76%, 75%);
